@@ -2,8 +2,9 @@
 
 A desktop notepad for Arch Linux inspired by the in-game Notepad in EVE Online:
 multiple tabs of plain text, a dark sci-fi UI, and automatic saving. Written in
-pure Go with [Gio](https://gioui.org) (immediate-mode GUI, works on X11 and
-Wayland).
+pure Go with [Gio](https://gioui.org) (immediate-mode GUI). Coded by Mistral 4.
+
+Runs on **X11/Xorg** (Wayland not required) as well as Wayland.
 
 ## Features
 
